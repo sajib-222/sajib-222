@@ -1,10 +1,16 @@
 <h2 align="left">Hi 👋! My name is Shariful Islam Sajib Sarker and I'm a Python developer, from Bangladesh</h2>
 
 ###
+###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajib-222&show_icons=true&locale=en&layout=compact" alt="sajib-222" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajib-222&show_icons=true&locale=en" alt="sajib-222" /></p>
+
+###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220390.gif"  />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220390.gif"/>
 
 ###
 
