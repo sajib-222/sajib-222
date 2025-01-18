@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Python development**.  
 - 🌱 I’m learning **Data Science, AI, and Machine Learning**.  
 - 👯 I’m looking to collaborate on **open-source Python projects**.  
-- 📫 Reach me at **sajib@example.com**.  
+- 📫 Reach me at **shariful017222@gmail.com**.  
 
 ---
 
