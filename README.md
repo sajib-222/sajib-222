@@ -1,10 +1,12 @@
 <h2 align="left">Hi 👋! I'm Shariful Islam Sajib Sarker, a Python Developer from Bangladesh 🇧🇩</h2>
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220390.gif" alt="Coding Gif" />
+
 
 ---
 
-### 💻 About Me  
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Random GIF" height="150" style="border-radius: 8px; margin-left: 15px;" />
+
+### 💻 About Me 
 - 🔭 I’m currently working on **Python development**.  
 - 🌱 I’m learning **Data Science, AI, and Machine Learning**.  
 - 👯 I’m looking to collaborate on **open-source Python projects**.  
