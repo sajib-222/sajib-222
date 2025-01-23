@@ -111,6 +111,13 @@
 </div>
 
 ---
+### ⚒️ Languages-Frameworks-Tools ⚒️
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" />
+    <img src="https://skillicons.dev/icons?i=gmail,html,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,stackoverflow,visualstudio,vscode,xd" /><br>
+</div>
+
+---
 
 ### 🎮 Fun Fact:  
 When I'm not coding, you can find me playing games, solving puzzles, or exploring AI innovations!
