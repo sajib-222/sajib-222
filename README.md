@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Shariful Islam Sajib Sarker, a Python Developer from Bangladesh 🇧🇩</h2>
+<h2 align="left">Hi 👋! I'm Shariful Islam Sajib Sarker, a Python Developer from Bangladesh </h2>
 
 
 
@@ -99,7 +99,7 @@
 
 ### 🌐 Connect with Me  
 <div align="left">
-  <a href="https://linkedin.com/in/sajib-222" target="_blank">
+  <a href="https://www.linkedin.com/in/shariful-islam-sajib-sarker/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:sajib@example.com" target="_blank">
