@@ -53,7 +53,7 @@
 ---
 
 ### 🎮 Fun Fact:  
-When I'm not coding, you can find me playing games, solving puzzles, or exploring AI innovations!
+When I'm not coding, you can find me playing games, or exploring AI innovations!
 
 ---
 <div align="center">
