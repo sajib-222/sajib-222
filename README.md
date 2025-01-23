@@ -31,8 +31,8 @@
 
 ### ⚒️ Languages-Frameworks-Tools ⚒️
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" width="650" />
-    <img src="https://skillicons.dev/icons?i=gmail,html,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,stackoverflow,visualstudio,vscode,xd" width="650" />
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" width="700" />
+    <img src="https://skillicons.dev/icons?i=gmail,html,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,stackoverflow,visualstudio,vscode,xd" width="700" />
 </div>
 
 ---
