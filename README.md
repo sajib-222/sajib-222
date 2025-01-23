@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="https://media1.giphy.com/media/rph6JD8yWZ7voryNi7/200.webp?cid=790b7611igiwad407aty7x2bz1ztvwv6n9fmo118rnogn9e4&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" style="border-radius: 8px; margin-left: 15px;" />
+<img align="right" src="https://media1.giphy.com/media/rph6JD8yWZ7voryNi7/200.webp?cid=790b7611igiwad407aty7x2bz1ztvwv6n9fmo118rnogn9e4&ep=v1_gifs_search&rid=200.webp&ct=g" height="140" style="border-radius: 8px; margin-left: 15px;" />
 
 ### 💻 About Me 
 - 🔭 I’m currently working on **Python development**.  
