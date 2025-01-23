@@ -104,9 +104,7 @@
   <a href="mailto:shariful017222@gmail.com" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
+ 
   <a href="https://github.com/sajib-222" >
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
