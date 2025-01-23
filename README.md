@@ -28,6 +28,14 @@
 
 ---
 
+<div align="center"> 
+
+  ![snake gif](https://github.com/sajib-222/sajib-222/blob/output/github-snake-dark.svg)   
+
+</div>
+
+---
+
 ### ⚒️ Languages-Frameworks-Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" width="750" />
