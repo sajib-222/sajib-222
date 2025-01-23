@@ -17,7 +17,7 @@
 <p align="center">
   <!-- Most Used Languages (Donut Chart) -->
   <a href="https://github.com/sajib-222/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 310px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 310px;margin-right: 60px;" />
   </a>
 
   <!-- GitHub Stats -->
