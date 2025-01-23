@@ -29,7 +29,7 @@
 
 ---
 
-### ⚒️ Languages-Frameworks-Tools ⚒️
+### ⚒️ Languages-Frameworks-Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" width="750" />
     <img src="https://skillicons.dev/icons?i=gmail,html,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,stackoverflow,visualstudio,vscode,xd" width="750" />
