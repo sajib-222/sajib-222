@@ -12,6 +12,23 @@
 
 ---
 
+### 📊 GitHub Stats  
+
+<p align="center">
+  <!-- Most Used Languages (Donut Chart) -->
+  <a href="https://github.com/sajib-222/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 310px; margin-right: 60px;" />
+  </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/sajib-222/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sajib-222&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="height: 200px; width: 450px; margin-left: 20px;" />
+  </a>
+</p>
+
+
+---
+
 ### 🛠️ Tools & Technologies  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
@@ -77,22 +94,7 @@
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <!-- Most Used Languages (Donut Chart) -->
-  <a href="https://github.com/sajib-222/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 310px; margin-right: 60px;" />
-  </a>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/sajib-222/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sajib-222&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="height: 200px; width: 450px; margin-left: 20px;" />
-  </a>
-</p>
-
-
----
 
 ### 🌐 Connect with Me  
 <div align="left">
