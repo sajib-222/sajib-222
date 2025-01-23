@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! I'm Shariful Islam Sajib Sarker, a Python Developer from Bangladesh </h2>
 
-
-
 ---
 
 <img align="right" src="https://media1.giphy.com/media/rph6JD8yWZ7voryNi7/200.webp?cid=790b7611igiwad407aty7x2bz1ztvwv6n9fmo118rnogn9e4&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" style="border-radius: 8px; margin-left: 15px;" />
@@ -27,7 +25,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sajib-222&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="height: 200px; width: 450px; margin-left: 20px;" />
   </a>
 </p>
-
 
 ---
 
@@ -102,10 +99,10 @@
   <a href="https://www.linkedin.com/in/shariful-islam-sajib-sarker/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:sajib@example.com" target="_blank">
+  <a href="shariful017222@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/sajib-222" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://github.com/sajib-222" target="_blank">
