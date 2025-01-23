@@ -17,7 +17,7 @@
 <p align="center">
   <!-- Most Used Languages (Donut Chart) -->
   <a href="https://github.com/sajib-222/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 310px;margin-right: 60px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 310px;" />
   </a>
 
   <!-- GitHub Stats -->
@@ -98,16 +98,16 @@
 
 ### 🌐 Connect with Me  
 <div align="left">
-  <a href="https://www.linkedin.com/in/shariful-islam-sajib-sarker/" target="_blank">
+  <a href="https://www.linkedin.com/in/shariful-islam-sajib-sarker/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto: shariful017222@gmail.com" target="_blank">
+  <a href="mailto:shariful017222@gmail.com" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://github.com/sajib-222" target="_blank">
+  <a href="https://github.com/sajib-222" >
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
 </div>
