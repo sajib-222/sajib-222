@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm Shariful Islam Sajib Sarker, a Python Developer from Bangladesh </h2>
+![](https://github.com/sajib-222/sajib-222/blob/main/Blue%20and%20White%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
+<h2 align="left">Hi there! I'm Shariful Islam Sajib Sarker, a passionate Python Developer from Bangladesh</h2>
 
 ---
 
