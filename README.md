@@ -18,7 +18,7 @@
 <p align="center">
   <!-- Most Used Languages (Donut Chart) -->
   <a href="https://github.com/sajib-222/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 310px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 305px;" />
   </a>
 
   <!-- GitHub Stats -->
@@ -39,8 +39,8 @@
 
 ### ⚒️ Languages-Frameworks-Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" width="750" />
-    <img src="https://skillicons.dev/icons?i=gmail,html,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,stackoverflow,visualstudio,vscode,xd" width="750" />
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" width="800" />
+    <img src="https://skillicons.dev/icons?i=gmail,html,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,stackoverflow,visualstudio,vscode,xd" width="800" />
 </div>
 
 ---
