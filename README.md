@@ -31,7 +31,7 @@
 
 <div align="center"> 
 
-  ![snake gif](https://github.com/sajib-222/sajib-222/blob/output/github-snake.svg)   
+  ![snake gif](https://github.com/sajib-222/sajib-222/blob/output/ocean.gif)   
 
 </div>
 
