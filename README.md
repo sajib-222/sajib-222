@@ -1,6 +1,5 @@
 ![](https://github.com/sajib-222/sajib-222/blob/main/Blue%20and%20White%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
-<h2 align="left">Hi there! I'm Shariful Islam Sajib Sarker, a passionate Python Developer from Bangladesh</h2>
-
+<h2 align="center">Hi there! I'm Shariful Islam Sajib Sarker, a passionate Python Developer</h2>
 ---
 
 <img align="right" src="https://media1.giphy.com/media/rph6JD8yWZ7voryNi7/200.webp?cid=790b7611igiwad407aty7x2bz1ztvwv6n9fmo118rnogn9e4&ep=v1_gifs_search&rid=200.webp&ct=g" height="130" style="border-radius: 8px; margin-left: 15px;" />
