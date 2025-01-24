@@ -1,5 +1,5 @@
 ![](https://github.com/sajib-222/sajib-222/blob/main/Blue%20and%20White%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
-<h1 align="center">Hi there! I'm Shariful Islam Sajib Sarker, a passionate Python Developer</h1>
+<h2 align="center">Hi there! I'm Shariful Islam Sajib Sarker, a passionate Python Developer</h2>
 
 ---
 
