@@ -29,18 +29,20 @@
 
 ---
 
-<div align="center"> 
 
-  ![snake gif](https://github.com/sajib-222/sajib-222/blob/output/github-snake.svg)   
-
-</div>
-
----
 
 ### ⚒️ Languages-Frameworks-Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,codepen,css,dotnet,eclipse,git,github,figma,flutter" width="800" />
     <img src="https://skillicons.dev/icons?i=gmail,html,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,stackoverflow,visualstudio,vscode,xd" width="800" />
+</div>
+
+---
+
+<div align="center"> 
+
+  ![snake gif](https://github.com/sajib-222/sajib-222/blob/output/github-snake.svg)   
+
 </div>
 
 ---
