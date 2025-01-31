@@ -1,7 +1,5 @@
-
 ![](https://github.com/sajib-222/sajib-222/blob/main/Blue%20and%20White%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/sajib-222" />
-
 <h2 align="center">Hi there! I'm Shariful Islam Sajib Sarker, a passionate Python Developer</h2>
 
 ---
@@ -14,10 +12,10 @@
 - 👯 I’m looking to collaborate on **open-source Python projects**.  
 - 📫 Reach me at **shariful017222@gmail.com**.  
 
-
 <!--
 ---
 <p align="center">  
+
   <a href="https://github.com/sajib-222/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 305px;" />
   </a>
@@ -48,11 +46,11 @@
 </div>
 
 ---
+### 🐍 My Contributions
 
-<div align="center"> 
-
+<div align="center">
+  
   ![snake gif](https://github.com/sajib-222/sajib-222/blob/output/github-snake.svg)   
-
 </div>
 
 ---
