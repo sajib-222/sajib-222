@@ -51,6 +51,7 @@
 ### ⚒️ Languages-Frameworks-Tools
 <div align="center">
 <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cs,cpp,clion,windows,codepen,css,dotnet,eclipse,git,github,figma,flutter,discord,pytorch,sklearn,gmail,html,wordpress,idea,latex,linkedin,linux,matlab,notion,opencv,powershell,py,tensorflow,stackoverflow,visualstudio,vscode,ps,xd,ubuntu&perline=19" width="1000" />
+</div>
 
 ---
 
