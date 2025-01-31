@@ -14,25 +14,32 @@
 - 👯 I’m looking to collaborate on **open-source Python projects**.  
 - 📫 Reach me at **shariful017222@gmail.com**.  
 
+
+<!--
 ---
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <!-- Most Used Languages (Donut Chart) -->
+<p align="center">  
   <a href="https://github.com/sajib-222/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-222&layout=donut&theme=radical&hide=css,html" alt="Most Used Languages (Donut Chart)" style="height: 200px;width: 305px;" />
   </a>
 
-  <!-- GitHub Stats -->
   <a href="https://github.com/sajib-222/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sajib-222&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="height: 200px; width: 450px; margin-left: 20px;" />
   </a>
 </p>
+-->
 
 ---
 
+### 📊 GitHub Stats  
 
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sajib-222&count_private=true&theme=react&border_radius=10" alt="streak stats" style="width: 415px;"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sajib-222&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sajib-222&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
 
 ### ⚒️ Languages-Frameworks-Tools
 <div align="center">
