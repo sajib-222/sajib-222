@@ -1,4 +1,4 @@
-![](https://github.com/sajib-222/sajib-222/blob/main/Blue%20and%20White%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
+![](https://github.com/sajib-222/sajib-222/blob/18b6a86d383e89c74d8380352af05b1917e9c8ff/Blue%20and%20White%20Geometric%20Technology%20Linkedin%20Banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/sajib-222" />
 <h2 align="center">Hi there! I'm Shariful Islam Sajib Sarker, a passionate Python Developer</h2>
 
